@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vtGoaWmDmgN2yFK+tEo//edwtxVNNk3UJ0QrZbQX7KI=",
+  "Source": "recrutAiDotnet",
+  "BasePath": "_content/recrutAiDotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
